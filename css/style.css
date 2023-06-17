@@ -376,7 +376,10 @@ footer {
     height: 95%;
 }
 
-.imagenprincipal{
-    width: 60%;
-    height: 30%;
+
+@media (min-width: 768px) {
+    .imagenprincipal {
+        width: 60%;
+        height: 30%;
+    }
 }
