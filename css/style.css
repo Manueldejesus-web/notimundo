@@ -253,7 +253,7 @@ img {
     }
 
     .sobre-nosotros__imagen{
-        flex: 0 0 calc(75% - 1rem);
+        flex: 0 0 calc(72% - 1rem);
         text-align: justify;
         
     }
